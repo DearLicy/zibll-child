@@ -101,7 +101,7 @@ CSF::createSection($prefix, [
 ### 覆盖父主题模板
 将需要修改的父主题模板文件复制到子主题对应目录，例如：
 ```
-父主题: /zibll/templates/header.php 
+父主题: /zibll/header.php 
 子主题: /zibll-child/header.php
 ```
 
